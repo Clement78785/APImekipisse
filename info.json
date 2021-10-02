@@ -1,1 +1,8 @@
-
+{
+"humidity": 13
+"colorHumidity": "red"
+"water": 33
+"colorWater": "orange"
+"toWater": false
+"power": true
+} 
